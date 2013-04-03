@@ -1,0 +1,8 @@
+*.iml
+.idea
+node_modules
+report
+test
+testobjects
+tmp
+.gitignore
