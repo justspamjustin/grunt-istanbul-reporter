@@ -1,7 +1,7 @@
 {
   "name": "grunt-istanbul-reporter",
   "description": "A grunt plugin simply for creating istanbul reports from coverage objects.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/justspamjustin/grunt-istanbul-reporter",
   "author": {
     "name": "Justin Martin"
@@ -34,10 +34,14 @@
     "istanbul": "~0.1.32",
     "fileset": "~0.1.5"
   },
+  "dependencies": {
+    "istanbul": "~0.1.32",
+    "fileset": "~0.1.5"
+  },
   "peerDependencies": {
     "grunt": "~0.4.1"
   },
   "keywords": [
-    "gruntplugin"
+    "gruntplugin istanbul"
   ]
 }
