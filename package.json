@@ -42,6 +42,7 @@
     "grunt": "~0.4.1"
   },
   "keywords": [
-    "gruntplugin istanbul"
+    "gruntplugin",
+    "istanbul"
   ]
 }
